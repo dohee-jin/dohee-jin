@@ -1,4 +1,4 @@
-### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="100"/>
+<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="100"/>
 *anyeonghasaeyo!*
 
 ### 🌱 현재 배우는 중
