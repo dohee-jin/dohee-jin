@@ -1,5 +1,5 @@
-## 안녕하세요!👽
-
+## 🙌
+*anyeonghasaeyo!*
 
 ### 🌱 현재 배우는 중
 - Spring Boot & Java 
@@ -9,6 +9,7 @@
 
 
 ### 🛠️ 사용 기술
+```
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -18,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 
 ```
-```
+
 
 <!--
 - 🔭 I’m currently working on ...
