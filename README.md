@@ -1,4 +1,4 @@
-### 👋
+### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="100"/>
 *anyeonghasaeyo!*
 
 ### 🌱 현재 배우는 중
@@ -9,11 +9,11 @@
 
 
 ### 💪 사용 기술
-```
+//
 Java        
 Python
 HTML + CSS
-```
+
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
